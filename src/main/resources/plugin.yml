@@ -1,0 +1,13 @@
+name: Gatecraft
+version: v0.0.1-ALPHA
+author: RoRoRobby
+main: ml.rororobby.gatecraft.Gatecraft
+api-version: 1.14.3
+website: https://rororobby.ml
+commands:
+  disable_gate:
+    description: This command disables all gate travel in the server. Admins only.
+    usage: /disable_gate [true/false]
+  enable_gate:
+    description: This command enables all gate travel in the server. Admins only.
+    usage: /enable_gate [true/false]

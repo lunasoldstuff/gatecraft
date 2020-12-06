@@ -2,7 +2,7 @@ name: Gatecraft
 version: v0.0.1-ALPHA
 author: RoRoRobby
 main: ml.rororobby.gatecraft.Gatecraft
-api-version: 1.14.3
+api-version: 1.16.2-R0.1-SNAPSHOT
 website: https://rororobby.ml
 commands:
   disable_gate:
